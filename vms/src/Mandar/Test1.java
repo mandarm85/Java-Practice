@@ -15,7 +15,7 @@ public class Test1
 		try 
 		{		
 			System.out.println("In Try");
-			
+			System.out.println("Laptop");
 			 //int A= 10/0;
 
 			
